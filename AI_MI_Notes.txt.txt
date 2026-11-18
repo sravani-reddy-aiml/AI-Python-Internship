@@ -1,0 +1,50 @@
+MODULE 01 – INTRODUCTION TO AI & PYTHON
+
+1. What is Artificial Intelligence (AI)?
+
+Artificial Intelligence is a branch of computer science
+that enables machines to perform tasks that normally
+require human intelligence.
+
+Examples:
+- ChatGPT
+- Google Assistant
+- Self-driving cars
+- Face recognition
+
+2. What is Machine Learning (ML)?
+
+Machine Learning is a subset of AI that allows computers
+to learn from data and improve their performance
+without being explicitly programmed.
+
+Examples:
+- Email spam detection
+- Movie recommendations
+- Fraud detection
+
+3. What is Deep Learning (DL)?
+
+Deep Learning is a subset of Machine Learning that uses
+artificial neural networks to learn from large amounts
+of data.
+
+Examples:
+- Image recognition
+- Speech recognition
+- Face detection
+
+4. Applications of AI
+
+- Healthcare
+- Education
+- Banking
+- Agriculture
+- Transportation
+- Entertainment
+
+5. Difference between AI, ML and DL
+
+AI: Makes machines intelligent.
+ML: Learns from data.
+DL: Uses neural networks to learn complex patterns.
